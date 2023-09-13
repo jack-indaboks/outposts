@@ -1,4 +1,4 @@
-# Unlimited Barbarians
+# Outposts
 
 A mod for Unciv that adds outposts to collect resources outside of your territory.
 
