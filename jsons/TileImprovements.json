@@ -1,0 +1,7 @@
+[
+	{
+		"name": "Outpost",
+		"techRequired": "The Wheel",
+		"uniques": ["Can only be built to improve a resource","Can be built outside your borders"]
+	}
+]
